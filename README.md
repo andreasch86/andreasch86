@@ -77,6 +77,9 @@ I'm a Senior Machine Learning Engineer hailing from Cape Town. With an unwaverin
     - Took ownership of various ML projects.
     - And other impactful work...
 
+- **Lecturer and Researcher**, North-West University, Potchefstroom *(Jan 2013 – Oct 2016)*
+  - I lectured undergraduate Mathematics and Applied Mathematics courses.
+  - I was active with a few research projects in Mathematical Biology.
 
 ### 🎓 Education
 - **M.Sc/PhD in Bioinformatics and Computational Biology**, Stellenbosch University, *(Ongoing)*
@@ -136,7 +139,3 @@ I'm a Senior Machine Learning Engineer hailing from Cape Town. With an unwaverin
 
 > “Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.”
 > -- Steve Jobs
-
-<div align="right">
-  <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
-</div>

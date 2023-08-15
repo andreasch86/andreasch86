@@ -21,6 +21,7 @@ I'm a Senior Machine Learning Engineer hailing from Cape Town. With an unwaverin
 <p>
   <a href="#"><img alt="Software Engineering Practices" src="https://img.shields.io/badge/Software%20Engineering%20Practices-%23047B3D.svg?style=for-the-badge&logoColor=white"></a>
   <a href="#"><img alt="Domain-Driven Design" src="https://img.shields.io/badge/DDD-%23676D74.svg?style=for-the-badge&logoColor=white"></a>
+  <a href="#"><img alt="Test-Driven Development" src="https://img.shields.io/badge/TDD-%23676D74.svg?style=for-the-badge&logoColor=white"></a>
   <a href="#"><img alt="Coding Standards" src="https://img.shields.io/badge/Coding%20Standards-%23FFCE00.svg?style=for-the-badge&logoColor=white"></a>
   <a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST%20API-%23FF5733.svg?style=for-the-badge&logoColor=white"></a>
 </p>

@@ -65,7 +65,10 @@ I'm a Senior Machine Learning Engineer hailing from Cape Town. With an unwaverin
 </p>
 
 ### 🖥 Work Experience
-- **Senior Machine Learning Engineer**, Jumo, Cape Town *(Apr 2022 – Present)*
+- **Senior Data/Machine Learning Engineer**, Equal Experts, Cape Town *(Feb 2024 – Present)*
+  - Mostly Data Engineering, MLOps, Data Science, Software Engineering
+    
+- **Senior Machine Learning Engineer**, Jumo, Cape Town *(Apr 2022 – Jan 2024)*
   - Mostly MLOps, some Data Science, with a bit of Software Engineering on the side
 
 

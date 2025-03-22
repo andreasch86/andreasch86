@@ -86,7 +86,6 @@ I'm a Senior Machine Learning Engineer hailing from Cape Town. With an unwaverin
   - I was active with a few research projects in Mathematical Biology.
 
 ### 🎓 Education
-- **M.Sc/PhD in Bioinformatics and Computational Biology**, Stellenbosch University, *(Ongoing)*
 - **M.Sc. in Applied Mathematics (cum laude)**, North-West University
 - **B.Sc.Hons. in Applied Mathematics (cum laude)**, North-West University
 - **B.Sc. in Computer and Mathematical Science (cum laude)**, North-West University

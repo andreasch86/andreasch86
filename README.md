@@ -31,9 +31,9 @@ I've been building ML systems since **2016** — back when "MLOps" wasn't even a
 ## 🏗️ What I Actually Do
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│  Research → Experiment → Engineer → Deploy → Monitor → Repeat │
-└──────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────┐
+│  Research → Experiment → Engineer → Deploy → Monitor → Repeat  │
+└────────────────────────────────────────────────────────────────┘
 ```
 
 | Area | What this means in practice |
@@ -166,6 +166,7 @@ This is where my love for rigorous thinking was cemented.
 
 | Qualification | University | Result |
 |---|---|---|
+| B.A. Philosophy | UNISA | In progress |
 | M.Sc. Applied Mathematics | North-West University | *cum laude* |
 | B.Sc.Hons. Applied Mathematics | North-West University | *cum laude* |
 | B.Sc. Computer & Mathematical Science | North-West University | *cum laude* |
@@ -182,11 +183,10 @@ Because why stop at one?
 |---|---|
 | Afrikaans | Native |
 | English | Fluent |
-| Mandarin | Conversational |
-| German | Learning |
-| French | Learning |
-| Spanish | Learning |
-| Dutch | Learning |
+| Mandarin | HSK1 |
+| German | A1 |
+| Spanish | A1 |
+| Dutch | A1/A2 |
 
 *Currently learning 4 languages simultaneously. Apparently I enjoy a challenge.*
 

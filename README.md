@@ -10,6 +10,8 @@
 <!-- Social links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea%20Scholtz-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-scholtz)
 [![GitHub](https://img.shields.io/badge/GitHub-andreasch86-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreasch86)
+[![Medium](https://img.shields.io/badge/Medium-andrea.x.head-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@andrea.x.head)
+[![Website](https://img.shields.io/badge/Website-andrea.heads.bio-%23F85D7F?style=for-the-badge&logo=safari&logoColor=white)](https://andrea.heads.bio/)
 
 </div>
 
@@ -238,8 +240,8 @@ When I'm not building ML systems or reading papers, you'll find me:
 
 <div align="center">
 
-*"The people who are crazy enough to think they can change the world are the ones who do."*
-— Steve Jobs
+*"Learning never exhausts the mind."*
+— Leonardo da Vinci
 
 <br/>
 

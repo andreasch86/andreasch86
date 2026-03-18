@@ -14,23 +14,19 @@
 ```
 
 <a href="https://github.com/andreasch86">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%24+whoami;Andrea+Scholtz+%7C+Senior+ML+Engineer+%7C+Cape+Town+%F0%9F%87%BF%F0%9F%87%A6;%24+cat+motto.txt;%22If+it%27s+not+in+production%2C+it+doesn%27t+count.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=%24+whoami;Andrea+Head+%7C+Senior+ML+Engineer+%7C+Cape+Town+%F0%9F%87%BF%F0%9F%87%A6;%24+cat+motto.txt;%22If+it%27s+not+in+production%2C+it+doesn%27t+count.%22" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social links with hover animation -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea%20Scholtz-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-scholtz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea%20Head-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-scholtz)
 [![GitHub](https://img.shields.io/badge/GitHub-andreasch86-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreasch86)
 [![Medium](https://img.shields.io/badge/Medium-andrea.x.head-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@andrea.x.head)
 [![Website](https://img.shields.io/badge/Website-andrea.heads.bio-%23F85D7F?style=for-the-badge&logo=safari&logoColor=white)](https://andrea.heads.bio/)
 [![Chat with CV](https://img.shields.io/badge/Chat%20with%20my%20CV-%F0%9F%A4%96%20Try%20it-%23F85D7F?style=for-the-badge&logo=chatbot&logoColor=white)](https://andrea.heads.bio/chat/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Andrea%20Scholtz-%2300CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Andrea-Scholtz)
 
 <br/>
-
-<!-- Animated wave -->
-<img src="https://raw.githubusercontent.com/andreasch86/andreasch86/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -53,7 +49,7 @@
 | [Career timeline](#the-journey) | `git log --oneline` |
 | [The human behind the code](#after-hours) | `cat /dev/random/fun` |
 | [Chat with my CV](https://andrea.heads.bio/chat/) | `curl andrea.heads.bio/chat` |
-| [AI talks to you](#ask-andrea-ai) | `curl localhost:8080/chat` |
+| [The Philosophy Corner](#the-philosophy-corner) | `python3 -c "import andrea; andrea.philosophise()"` |
 
 ---
 
@@ -61,14 +57,14 @@
 <!--                     THE ORIGIN STORY                          -->
 <!-- ============================================================ -->
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> The Origin Story
+## <a id="the-origin-story"></a><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> The Origin Story
 
 ```python
 class Andrea:
     """A mathematician who wandered into ML and never came back."""
 
     def __init__(self):
-        self.name = "Andrea Scholtz"
+        self.name = "Andrea Head"
         self.role = "Senior ML Engineer"
         self.location = "Cape Town, South Africa 🇿🇦"
         self.company = "Equal Experts"
@@ -103,19 +99,19 @@ class Andrea:
 <!--                      THE WORKSHOP                             -->
 <!-- ============================================================ -->
 
-## <img src="https://media.giphy.com/media/juua9i2c4fWUsg5PKT/giphy.gif" width="30"> The Workshop
+## <a id="the-workshop"></a><img src="https://media.giphy.com/media/juua9i2c4fWUsg5PKT/giphy.gif" width="30"> The Workshop
 
 ```
                     ┌─────────────────────────────────────────────────────┐
-                    │                    MY WORKFLOW                       │
+                    │                    MY WORKFLOW                      │
                     ├─────────────────────────────────────────────────────┤
                     │                                                     │
-                    │   Research ──▶ Experiment ──▶ Engineer               │
-                    │      ▲                           │                   │
-                    │      │                           ▼                   │
+                    │   Research ──▶ Experiment ──▶ Engineer              │
+                    │      ▲                           │                  │
+                    │      │                           ▼                  │
                     │   Monitor ◀── Observe ◀──── Deploy                  │
                     │                                                     │
-                    │          ♻️  Repeat forever                          │
+                    │          ♻️  Repeat forever                         │
                     └─────────────────────────────────────────────────────┘
 ```
 
@@ -157,7 +153,7 @@ Mathematical Biology, AI Ethics, life sciences. I keep one foot in academia beca
 <!--                       THE ARSENAL                             -->
 <!-- ============================================================ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> The Arsenal
+## <a id="the-arsenal"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> The Arsenal
 
 <details>
 <summary><b>🧠 Machine Learning & AI</b></summary>
@@ -170,8 +166,6 @@ Mathematical Biology, AI Ethics, life sciences. I keep one foot in academia beca
   <img alt="MLflow" src="https://img.shields.io/badge/MLflow-%23FF2B2B.svg?style=for-the-badge&logo=mlflow&logoColor=white">
   <img alt="Model Monitoring" src="https://img.shields.io/badge/Model%20Monitoring-%2300B4D8.svg?style=for-the-badge&logoColor=white">
   <img alt="Drift Detection" src="https://img.shields.io/badge/Drift%20Detection-%23E74C3C.svg?style=for-the-badge&logoColor=white">
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img alt="Cluster Analysis" src="https://img.shields.io/badge/Cluster%20Analysis-%23D70040.svg?style=for-the-badge&logoColor=white">
 </p>
 </details>
 
@@ -278,7 +272,7 @@ Mathematical Biology, AI Ethics, life sciences. I keep one foot in academia beca
 <!--                       THE JOURNEY                             -->
 <!-- ============================================================ -->
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> The Journey
+## <a id="the-journey"></a><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> The Journey
 
 ```
 git log --oneline --graph career.txt
@@ -332,7 +326,7 @@ git log --oneline --graph career.txt
 <!--                       FUN ZONE                                -->
 <!-- ============================================================ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> After Hours
+## <a id="after-hours"></a><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> After Hours
 
 <table>
 <tr>
@@ -350,8 +344,12 @@ git log --oneline --graph career.txt
     "german":    "███░░░░░░░░░░░░░░░░░ A1",
     "spanish":   "███░░░░░░░░░░░░░░░░░ A1"
   },
-  "status": "Learning 4 simultaneously",
-  "diagnosis": "Enjoys a challenge"
+  "disciplines": [
+    "mathematics", "applied mathematics", 
+    "theoretical biology", "philosophy", 
+    "music",
+  ]
+  "status": "Enjoys learning tooooo much",
 }
 ```
 
@@ -365,7 +363,7 @@ fun_facts = [
     "🧪 Reads research papers for fun",
     "🧬 Life sciences + AI = dream intersection",
     "🤖 Studies philosophy to question AI ethics",
-    "🗣️ Learning 4 languages at once",
+    "🗣️ Learning 4 languages on-and-off",
     "🎵 Music = the OG signal processing",
     "🍳 Cooking = precision + creativity",
     "📐 Can derive your loss function on a napkin",
@@ -388,9 +386,10 @@ print(random.choice(fun_facts))
 <!--                   THE PHILOSOPHY CORNER                       -->
 <!-- ============================================================ -->
 
-<details>
-<summary><b>🤔 The AI Ethics Corner — Because "Should We?" Matters</b></summary>
-<br/>
+## <a id="the-philosophy-corner"></a><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE0OTk5dWRuYzl6c2NjcTY0ODBndnA2M2dnMWRxNzhsMnowbDN6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zmXtqmGUf8uhW/giphy.gif" width="30"> The Philosophy Corner
+> 🤖 **Want to read about my journey?**
+> I am trying to merge my experience with my philosophy studies:
+> ### **[📚 Read my blogs → andrea.heads.bio/blogs](https://andrea.heads.bio/blogs/)**
 
 <div align="center">
 
@@ -398,7 +397,7 @@ print(random.choice(fun_facts))
     ╔══════════════════════════════════════════════════════╗
     ║                                                      ║
     ║   "With great compute comes great responsibility."   ║
-    ║                        — Not quite Uncle Ben          ║
+    ║                        — Not quite Uncle Ben         ║
     ║                                                      ║
     ╚══════════════════════════════════════════════════════╝
 ```
@@ -414,7 +413,6 @@ I'm pursuing a **B.A. in Philosophy** alongside my ML career because I believe:
 
 *This isn't just a hobby — it's a responsibility.*
 
-</details>
 
 ---
 
@@ -478,9 +476,6 @@ I'm pursuing a **B.A. in Philosophy** alongside my ML career because I believe:
 │                                                             │
 │   "Learning never exhausts the mind."                       │
 │                              — Leonardo da Vinci            │
-│                                                             │
-│   "The only way to do great work is to love what you do."   │
-│                              — Steve Jobs                   │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```

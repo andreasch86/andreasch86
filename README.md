@@ -24,6 +24,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-andreasch86-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreasch86)
 [![Medium](https://img.shields.io/badge/Medium-andrea.x.head-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@andrea.x.head)
 [![Website](https://img.shields.io/badge/Website-andrea.heads.bio-%23F85D7F?style=for-the-badge&logo=safari&logoColor=white)](https://andrea.heads.bio/)
+[![Chat with CV](https://img.shields.io/badge/Chat%20with%20my%20CV-%F0%9F%A4%96%20Try%20it-%23F85D7F?style=for-the-badge&logo=chatbot&logoColor=white)](https://andrea.heads.bio/chat/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Andrea%20Scholtz-%2300CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Andrea-Scholtz)
 
 <br/>
@@ -46,12 +47,13 @@
 
 | Destination | Portal |
 |:---:|:---:|
-| [Who is this person?](#-the-origin-story) | `ssh andrea@brain` |
-| [What does she actually do?](#%EF%B8%8F-the-workshop) | `kubectl get pods` |
-| [Show me the skills](#-the-arsenal) | `pip install andrea` |
-| [Career timeline](#-the-journey) | `git log --oneline` |
-| [The human behind the code](#-after-hours) | `cat /dev/random/fun` |
-| [AI talks to you](#-ask-andrea-ai) | `curl localhost:8080/chat` |
+| [Who is this person?](#the-origin-story) | `ssh andrea@brain` |
+| [What does he actually do?](#the-workshop) | `kubectl get pods` |
+| [Show me the skills](#the-arsenal) | `pip install andrea` |
+| [Career timeline](#the-journey) | `git log --oneline` |
+| [The human behind the code](#after-hours) | `cat /dev/random/fun` |
+| [Chat with my CV](https://andrea.heads.bio/chat/) | `curl andrea.heads.bio/chat` |
+| [AI talks to you](#ask-andrea-ai) | `curl localhost:8080/chat` |
 
 ---
 
@@ -157,7 +159,7 @@ Mathematical Biology, AI Ethics, life sciences. I keep one foot in academia beca
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> The Arsenal
 
-<details open>
+<details>
 <summary><b>🧠 Machine Learning & AI</b></summary>
 <br/>
 <p align="center">
@@ -173,7 +175,7 @@ Mathematical Biology, AI Ethics, life sciences. I keep one foot in academia beca
 </p>
 </details>
 
-<details open>
+<details>
 <summary><b>💻 Programming & Mathematics</b></summary>
 <br/>
 <p align="center">
@@ -188,7 +190,7 @@ Mathematical Biology, AI Ethics, life sciences. I keep one foot in academia beca
 </p>
 </details>
 
-<details open>
+<details>
 <summary><b>☁️ Infrastructure & DevOps</b></summary>
 <br/>
 <p align="center">
@@ -203,7 +205,7 @@ Mathematical Biology, AI Ethics, life sciences. I keep one foot in academia beca
 </p>
 </details>
 
-<details open>
+<details>
 <summary><b>🏛️ Engineering Practices</b></summary>
 <br/>
 <p align="center">
@@ -223,7 +225,13 @@ Mathematical Biology, AI Ethics, life sciences. I keep one foot in academia beca
 
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> Ask Andrea AI
 
-> *What would an AI trained exclusively on Andrea's career sound like?*
+> 🤖 **Want to actually chat with an AI trained on my CV?**
+> The real thing is live on my website — ask it anything about my experience, skills, or background:
+> ### **[💬 Chat with my CV → andrea.heads.bio/chat](https://andrea.heads.bio/chat/)**
+
+---
+
+> *Below: a static preview of the kinds of answers you'd get — or just go use the real one above.*
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
@@ -418,7 +426,7 @@ I'm pursuing a **B.A. in Philosophy** alongside my ML career because I believe:
 
 <div align="center">
 
-<details open>
+<details>
   <summary><b>🔥 Streak & Languages</b></summary>
   <br/>
   <a href="https://github.com/andreasch86">
@@ -473,9 +481,6 @@ I'm pursuing a **B.A. in Philosophy** alongside my ML career because I believe:
 │                                                             │
 │   "The only way to do great work is to love what you do."   │
 │                              — Steve Jobs                   │
-│                                                             │
-│   "In God we trust; all others must bring data."            │
-│                              — W. Edwards Deming            │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```

@@ -154,7 +154,7 @@ I built an AI that knows my entire career history. Ask it anything — architect
 
 ### Off the Clock
 
-Currently studying Philosophy at UNISA because the people building AI should be the ones questioning it. Speaks six languages at various levels of confidence. Reads research papers recreationally. Believes cooking is just optimisation with better inputs.
+Currently studying Philosophy at UNISA because the people building AI should be the ones questioning it. "Speaks" six languages at various levels of confidence. Reads research papers recreationally. Believes cooking is just optimisation with better inputs.
 
 ---
 

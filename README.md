@@ -59,7 +59,7 @@ class Andrea:
         return "ML Platform Architect who can derive your loss function, deploy it to K8s, and explain it to your CTO"
 ```
 
-> What sets me apart in the age of AI tools? Everyone can call an API. I design the platforms that serve 50+ models a day, build the drift detection that catches failures before users do, and lead the teams that keep it all running. Three degrees — all cum laude — and a decade of building ML systems before "prompt engineering" was a job title.
+> What sets me apart in the age of AI tools? Everyone can call an API. I design the platforms that serve 50+ models a day, build the drift detection that catches failures before users do, and lead the teams that keep it all running. Masters in Applied Math and a decade of building ML systems before "prompt engineering" was a job title.
 
 ---
 
@@ -144,9 +144,7 @@ class Andrea:
 * 2013-2016     🎓 Lecturer & Researcher @ North-West University
 │                  ↳ Taught undergraduate Maths & Applied Maths
 │                  ↳ Research in Mathematical Biology
-│                  ↳ Origin story: "I actually understand the maths"
-│
-* init           📚 Three degrees, all cum laude. Just saying. 😎
+│                  ↳ Origin story: "I actually understand the maths!"
 ```
 
 ---
@@ -155,24 +153,24 @@ class Andrea:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
-│  User: What makes you different from other ML engineers?              │
+│  User: What makes you different from other ML engineers?               │
 │                                                                        │
-│  AndreaGPT: Most ML engineers build models. I build the platforms     │
-│  that let entire teams ship models — the registries, the pipelines,   │
-│  the monitoring, the governance. Then I lead the squads that keep     │
-│  it all running. Three maths degrees help too.                        │
+│  AndreaGPT: Most ML engineers build models. I build the platforms      │
+│  that let entire teams ship models — the registries, the pipelines,    │
+│  the monitoring, the governance. Then I lead the squads that keep      │
+│  it all running. Three maths degrees help too.                         │
 │                                                                        │
-│  User: What's the difference between an ML engineer and a lead?       │
+│  User: What's the difference between an ML engineer and a lead?        │
 │                                                                        │
-│  AndreaGPT: An ML engineer builds the model. A lead builds the       │
-│  platform, the team, and the culture that lets 50 models ship        │
-│  reliably. Then debugs the one that broke anyway.                    │
+│  AndreaGPT: An ML engineer builds the model. A lead builds the         │
+│  platform, the team, and the culture that lets 50 models ship          │
+│  reliably. Then debugs the one that broke anyway.                      │
 │                                                                        │
-│  User: Can I actually chat with your CV?                              │
+│  User: Can I actually chat with your CV?                               │
 │                                                                        │
-│  AndreaGPT: Yes. I built an AI that knows my entire career history.  │
-│  Ask it anything — architecture decisions, tech stack choices, what   │
-│  I actually did at 2am during that Capitec security incident.        │
+│  AndreaGPT: Yes. I built an AI that knows my entire career history.    │
+│  Ask it anything — architecture decisions, tech stack choices, what    │
+│  I actually did at 2am during that Capitec security incident.          │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -197,7 +195,7 @@ Pursuing a **B.A. in Philosophy** alongside a decade-long ML career because the 
 ## After Hours
 
 🌍 **Languages:** Speaks six languages at various levels of confidence.
-📚 **Currently reading:** Research papers. Recreationally.
+📚 **Currently reading:** Research papers. Recreationally. And multiple books at random speeds.
 🎓 **Currently studying:** Philosophy at UNISA — because the people building AI should be the ones questioning it.
 🍳 **Hot take:** Cooking is just optimisation with better inputs.
 
